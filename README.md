@@ -27,7 +27,7 @@ Just a coder with a cause, a developer with dreams, and a creator with a cup of 
 
 ## A Bit More About Me 🎈
 - 🎮 Gamer Tag: CraftyCoder42 - Because life, the universe, and everything.
-- 🍕 Favorite Pizza: AI-topped - Artificial Ingredients, just kidding, Anchovies & Italian sausage.
+- 🍕 Favorite Pizza: AI-topped - Artificial Ingredients, just kidding, I dont like pizza, i like `TEA`.
 
 Remember, every line of code is a piece of my story. So, let's make our stories epic, together!
 
