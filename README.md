@@ -11,7 +11,7 @@ Just a coder with a cause, a developer with dreams, and a creator with a cup of 
 - **Cloud Conjuring**: Summoning serverless services with a snap.
 
 ## Featured Projects 🌟
-- `Project Phoenix`: A chatbot that rises from the ashes of outdated tech.
+- `TeleAI`: A chatbot that chats about processed videos.
 - `The Automator`: A script so efficient, it does your work while you nap.
 
 ## Casual Chats & Code Snaps 📸
